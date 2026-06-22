@@ -1,9 +1,12 @@
-  _    _             _____  _     _      
+```  _    _             _____  _     _      
  | |  | |           |  __ \(_)   | |     
  | |  | |_ __   ___ | |__) |_  __| | ___ 
  | |  | | '_ \ / _ \|  _  /| |/ _` |/ _ \
  | |__| | | | | (_) | | \ \| | (_| |  __/
   \____/|_| |_|\___/|_|  \_\_|\__,_|\___|
+```
+                                         
+                                         
                                          
 Sistema de Caronas Universitárias
 Sistema web para oferta e reserva de caronas entre universitários, com foco em aprendizado prático de desenvolvimento web full stack.
